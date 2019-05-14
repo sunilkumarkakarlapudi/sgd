@@ -1,0 +1,2 @@
+# sgd
+Gradient Descent Implementation.
